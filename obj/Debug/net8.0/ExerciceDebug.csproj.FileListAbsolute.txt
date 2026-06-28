@@ -1,0 +1,14 @@
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\bin\Debug\net8.0\ExerciceDebug.exe
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\bin\Debug\net8.0\ExerciceDebug.deps.json
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\bin\Debug\net8.0\ExerciceDebug.runtimeconfig.json
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\bin\Debug\net8.0\ExerciceDebug.dll
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\bin\Debug\net8.0\ExerciceDebug.pdb
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ExerciceDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ExerciceDebug.AssemblyInfoInputs.cache
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ExerciceDebug.AssemblyInfo.cs
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ExerciceDebug.csproj.CoreCompileInputs.cache
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ExerciceDebug.dll
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\refint\ExerciceDebug.dll
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ExerciceDebug.pdb
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ExerciceDebug.genruntimeconfig.cache
+C:\Users\DELL XPS I9\Desktop\CSHARP\ExerciceDebug\obj\Debug\net8.0\ref\ExerciceDebug.dll
